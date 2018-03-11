@@ -212,6 +212,9 @@ h4 {
 .view-github .btn-main {
   background-color: rgb(118, 194, 175);
 }
+.github-stars {
+  margin-top:10px;
+}
 #features hr {
   border: none;
   border-top: 1px solid #d4d4d4;
